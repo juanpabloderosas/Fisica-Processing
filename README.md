@@ -1,5 +1,8 @@
 # Fisica-Processing
-<div div align="right"> Leo Mattioli (in memoriam) </div>
+
+
+ <img src="https://agenciafe.com/data/img_cont/img_imagenes/181463.png" height="300">
+Leo Mattioli (in memoriam)
 
 ## Colaboradores:
 * Juan Martín Rodríguez
