@@ -1,5 +1,11 @@
 # Fisica-Processing
 
+pie title Buenos Aires Governor Election - Official Results (99.83% Counted)
+    "Axel Kicillof (UP) : 44.71%" : 44.71
+    "Néstor Grindetti (JxC) : 35.43%" : 35.43
+    "Others" : 14.57
+    "Frente de Izquierda : 5.29%" : 5.29
+
 
  <img src="https://agenciafe.com/data/img_cont/img_imagenes/181463.png" height="300">
 Leo Mattioli (in memoriam)
